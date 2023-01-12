@@ -1,5 +1,3 @@
-﻿using System;
-
 namespace XMemCompress
 {
     public sealed class XCompressException : Exception
